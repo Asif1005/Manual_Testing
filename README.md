@@ -35,9 +35,9 @@ My work includes requirement analysis (questions to the client), test case desig
 ---
 
 ## Files in the Repository
-- **`Q1_Requirement_Questions.md`** → 10 priority-based client questions.
-- **`Q2_Test_Cases.xlsx`** → Test cases based on requirements.
-- **`Q3_Test_Report.xlsx`** → Execution results with Pass/Fail and remarks.
+- **`Requirement_Questions.md`** → 10 priority-based client questions.
+- **`Test_Cases.xlsx`** → Test cases based on requirements.
+- **`Test_Report.xlsx`** → Execution results with Pass/Fail and remarks.
 - **`README.md`** → Project documentation.
 
 ---
